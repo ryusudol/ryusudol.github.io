@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Experiment with a simple Artificial Neural Network (ANN)"
+---
+
 # Artificial Neural Network
 
 ### Importing the libraries
