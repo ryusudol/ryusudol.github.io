@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Suyeon Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, I'm Suhyeon Yu, a Computer Science student at Sungkyunkwan University (SKKU) in South Korea. I'm a frontend developer expanding my skills in cloud and machine learning engineering."
+  bio              : "Hello. I'm Suhyeon Yu, a Computer Science student at Sungkyunkwan University, South Korea. I'm a frontend developer and expanding my skills in cloud and machine learning engineering."
   location         : "Suwon, South Korea"
   email            :
   links:
