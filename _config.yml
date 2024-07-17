@@ -21,7 +21,7 @@ title                    : "Suhyeon Yu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suhyeon Yu"
-description              : "An amazing website."
+description              : "Suhyeon Yu's personal website."
 url                      : "https://ryusudol.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
