@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "default" "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SuHyeon Yu"
+title                    : "Suhyeon Yu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suhyeon Yu"
@@ -113,30 +113,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Suyeon Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hello, I'm Suhyeon Yu. I'm a student in the Department of Computer Science at Sungkyunkwan University (SKKU), South Korea. During my time at SKKU, I've honed my skills in frontend development and machine unlearning visualization."
+  location         : "Suwon, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "suhyeon.yu.2789@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/ryusudol"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ryusudol"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/ryusudol/"
 
 # Site Footer
 footer:
